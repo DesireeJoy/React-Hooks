@@ -4,11 +4,11 @@ This very ugly project is intended as practice for react hooks, bootstrapped wit
 
 ## React Hooks used
 
-useState
-useEffect
-useRef
-useContext
-useReducer
+* useState
+* useEffect
+* useRef
+* useContext
+* useReducer
 
 ### `npm start`
 
